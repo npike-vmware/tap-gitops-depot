@@ -12,6 +12,7 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/npike-vmware/tap-gitops-depot
+      subpath: tanzu-java-web-app
       ref:
         branch: main
