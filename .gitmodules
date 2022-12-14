@@ -1,0 +1,3 @@
+[submodule "TetrisBlazor"]
+	path = TetrisBlazor
+	url = https://github.com/aboudoux/TetrisBlazor
